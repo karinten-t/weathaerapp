@@ -2,7 +2,11 @@ import React from 'react'
 
 const Body = () => {
   return (
-    <div>Body</div>
+    <div>Body
+
+    <h1>this is a cloudy day</h1>
+    </div>
+    
   )
 }
 
